@@ -1,0 +1,3 @@
+PyTelegramBotApi
+peewee
+pymysql
